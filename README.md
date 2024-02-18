@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-I'm currently working on Database systems and design and Big-data compression framework. <br>I’m interested in Software Development, R&D, Computing Systems, Machine Learning, and Networked Systems. I’m currently pursuing Masters in Science degree majoring in Computer Science at Georgia Institute of Technology<br>I’m looking to collaborate in domains such as Cloud Computing, Software Development, Product Development, and Computer Networks.<br>How to reach me - mail me on abrar.mohammed@gatech.edu (or) abrarmohammed.work@gmail.com
+I'm currently working on Database systems & design and Big-data compression frameworks in my role of GRA at Georgia Tech. <br>I’m interested in Software Development, R&D, Computing Systems, Machine Learning, and Networked Systems. I’m currently pursuing Masters in Science degree majoring in Computer Science at Georgia Institute of Technology<br>I’m looking to collaborate in domains such as Cloud Computing, Software Development, Product Development, and Computer Networks.<br>How to reach me - mail me on abrar.mohammed@gatech.edu (or) abrarmohammed.work@gmail.com
 
 
 ## 🌐 Socials:
