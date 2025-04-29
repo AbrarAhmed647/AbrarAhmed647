@@ -1,30 +1,52 @@
-<!---
-- 👋 Hi, I’m @Abrar Ahmed Mohammed
-- 👀 I’m interested in Software Development, R&D, Computing Systems, Machine Learning, and Networked Systems.
-- 🌱 I’m currently pursuing Masters in Science degree majoring in Computer Science at Georgia Institute of Technology
-- 💞️ I’m looking to collaborate in domains such as Cloud Computing, Software Development, Product Development, and Computer Networks.
-- 📫 How to reach me - mail me on abrar.mohammed@gatech.edu (or) abrarmohammed.work@gmail.com
+# 👋 About Me
 
+Hi, I'm **Abrar Ahmed Mohammed** — a Lead Software Engineer and AI/ML Specialist passionate about building intelligent, scalable systems.
 
-AbrarAhmed647/AbrarAhmed647 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Currently leading Retrieval-Augmented Generation (RAG) and GenAI initiatives at BR Partners Global, and developing AI/ML solutions for digital advertising at Social by Steph.  
+🎓 Graduated with a **Master of Science in Computer Science** (Systems & ML specialization) from **Georgia Institute of Technology**.  
+🚀 I have professional experience across LLM fine-tuning, regulatory GenAI pipelines, serverless architectures, big data compression systems, and scalable full-stack applications.
 
-# 💫 About Me:
-I'm currently working on Database systems & design and Big-data compression frameworks in my role of GRA at Georgia Tech. <br>I’m interested in Software Development, R&D, Computing Systems, Machine Learning, and Networked Systems. I’m currently pursuing Masters in Science degree majoring in Computer Science at Georgia Institute of Technology<br>I’m looking to collaborate in domains such as Cloud Computing, Software Development, Product Development, and Computer Networks.<br>How to reach me - mail me on abrar.mohammed@gatech.edu (or) abrarmohammed.work@gmail.com
+I'm always excited to collaborate on **Cloud Computing**, **AI/ML Infrastructure**, **Software Development**, and **Distributed Systems** projects!
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar5467) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbrarAhmed647&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbrarAhmed647&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarAhmed647&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📫 How to reach me:  
+- Email: [abrarmohammed.work@gmail.com](mailto:abrarmohammed.work@gmail.com)  
+- LinkedIn: [linkedin.com/in/abrar5467](https://linkedin.com/in/abrar5467)  
+- GitHub: [AbrarAhmed647](https://github.com/AbrarAhmed647)
 
 ---
+
+# 🛠 Tech Stack
+
+**Languages:** Python, JavaScript, Java, C++, Go, SQL, Bash  
+**Frontend:** React.js, TypeScript, Vue.js, HTML5, CSS3, Bootstrap  
+**Backend:** Node.js, Express.js, FastAPI, Flask, Spring Boot, GraphQL, Socket.io  
+**AI/ML:** TensorFlow, PyTorch, Scikit-learn, HuggingFace, OpenCV, Keras, LangChain, LangGraph, Llama Index  
+**Big Data:** Apache Spark, Hive, Airflow, ZSTD, EMR  
+**Cloud Platforms:** AWS (EKS, Lambda, S3, DynamoDB, SageMaker, EFS), Azure  
+**DevOps & Infra:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Snowflake, Cassandra  
+**Other Tools:** Kafka, Prometheus, Grafana, Jira, Postman
+
+---
+
+# 🌟 Highlights
+
+- 💬 Built a **$1M+ revenue-generating** Regulatory GenAI Suite (search, summarize, chat agents) hosted on AWS  
+- 🛠 Developed a **Digital Ads Simulator (SIMMY)** for Meta Ads audience generation with ReactJS and ExpressJS  
+- 🔥 Fine-tuned LLaMA 3.1-8B and 70B models using **Axolotl** on RunPod with both full fine-tuning and PEFT (QLoRA)  
+- 📊 Architected a **petabyte-scale data compression pipeline** achieving 80% compression using Spark, Hive, Scala  
+- 🛡️ Co-founded **ScamSafeAI** to prevent phishing attacks with custom finetuned GPT-J-6B models on AWS SageMaker  
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AbrarAhmed647&theme=dark&hide_border=false&count_private=true&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbrarAhmed647&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarAhmed647&theme=dark&hide_border=false&layout=compact)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=AbrarAhmed647&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with ❤️ by Abrar Ahmed Mohammed -->
