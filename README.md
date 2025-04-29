@@ -2,9 +2,9 @@
 
 Hi, I'm **Abrar Ahmed Mohammed** — a Lead Software Engineer and AI/ML Specialist passionate about building intelligent, scalable systems.
 
-🎯 Currently leading Retrieval-Augmented Generation (RAG) and GenAI initiatives at BR Partners Global, and developing AI/ML solutions for digital advertising at Social by Steph.  
+🎯 Currently leading Regulatory GenAI initiatives at BR Partners Global, and developing AI/ML solutions for digital advertising at Social by Steph.
 🎓 Graduated with a **Master of Science in Computer Science** (Systems & ML specialization) from **Georgia Institute of Technology**.  
-🚀 I have professional experience across LLM fine-tuning, regulatory GenAI pipelines, serverless architectures, big data compression systems, and scalable full-stack applications.
+🚀 I have professional experience across LLM fine-tuning, GenAI pipelines, LLMOps, serverless architectures, big data compression systems, and scalable full-stack applications.
 
 I'm always excited to collaborate on **Cloud Computing**, **AI/ML Infrastructure**, **Software Development**, and **Distributed Systems** projects!
 
@@ -18,7 +18,7 @@ I'm always excited to collaborate on **Cloud Computing**, **AI/ML Infrastructure
 # 🛠 Tech Stack
 
 **Languages:** Python, JavaScript, Java, C++, Go, SQL, Bash  
-**Frontend:** React.js, TypeScript, Vue.js, HTML5, CSS3, Bootstrap  
+**Frontend:** React.js, TypeScript, TailwindCSS, Vue.js, HTML5, CSS3, Bootstrap  
 **Backend:** Node.js, Express.js, FastAPI, Flask, Spring Boot, GraphQL, Socket.io  
 **AI/ML:** TensorFlow, PyTorch, Scikit-learn, HuggingFace, OpenCV, Keras, LangChain, LangGraph, Llama Index  
 **Big Data:** Apache Spark, Hive, Airflow, ZSTD, EMR  
